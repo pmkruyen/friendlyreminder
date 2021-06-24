@@ -1,5 +1,5 @@
-# friendlyreminder
-A simple app that helps you to send a nice message to a (random) friend, co-worker, or family member (with weighted probabilities). Your computer picks the lucky one for today.
+# Friendly Reminder
+A simple app that helps you remember to send a nice message to a (random) friend, co-worker, or family member (with weighted probabilities). Your computer picks the lucky one for today.
 
 ## Instructions
 * Add names in the names array
