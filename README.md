@@ -7,7 +7,7 @@ A simple app that helps you remember *and* send a nice message to a (random) fri
 * Change probability weights in the weight function. You may want to call your mother more often than your mother in law or *vice versa*
 
 ## Example
-[See this CodePen](https://codepen.io/pmkruyen/pen/QWpepwK)
+[See this CodePen](https://codepen.io/pmkruyen/pen/QWpepwK) , without Whatapp integration.
 
 ## Credits 
 Nenad Vracar and Michael Czechowski for the adapted random weight function.
